@@ -5,8 +5,8 @@
 </head> 
 <body> 
 
-<h1>This is a heading</h1>
-<p>This is a paragraph.</p> 
+<h1>Wow this is the secondpage</h1>
+<p>this is so COOL.</p> 
 
 </body>
 </html>
